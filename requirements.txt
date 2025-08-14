@@ -1,0 +1,7 @@
+espeak
+SpeechRecognition
+pyaudio
+pvporcupine
+RPi.GPIO
+adafruit-circuitpython-ads1x15
+thingspeak
