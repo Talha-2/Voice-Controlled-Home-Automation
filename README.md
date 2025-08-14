@@ -149,13 +149,6 @@ python3 SmartHomeAutomation.py
 
 ---
 
-## 🖼 ThingSpeak Dashboard
-
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/bf1a5074-9cb5-44ac-8381-ea8a7ab6c24e" />
-<img width="1510" height="886" alt="image" src="https://github.com/user-attachments/assets/499bd55b-0f45-44cd-9f87-76cf198e16c2" />
-
----
-
 ## 🛠 Technologies Used
 
 * **Hardware**: Raspberry Pi 4B, 4-Channel Relay, Microphone, LED circuits, Voltage & Current sensors, ADC module.
@@ -172,14 +165,5 @@ python3 SmartHomeAutomation.py
 ├── README.md               # Project documentation
 └── requirements.txt        # Python dependencies
 ```
-
----
-
-## 📜 References
-
-* Raspberry Pi 4B Technical Documentation
-* Google Speech-to-Text API Documentation
-* ThingSpeak API Documentation
-* Sensor datasheets & community forums
 
 ---
